@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dipesh-Paudel
+- 👋 Hi, I’m @Lucifer
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on different types of webpages.
