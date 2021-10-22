@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Lucifer
+- 👋 Hi, I’m Dipesh
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on different types of webpages.
-- 📫 Hobbies including travelling, playing football and so on.
+- 📫 Hobbies including travelling and, so on.
 
 <!---
 Dipesh-Paudel/Dipesh-Paudel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
